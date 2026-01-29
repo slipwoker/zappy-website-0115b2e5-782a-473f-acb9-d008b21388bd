@@ -1,0 +1,53 @@
+# הדר רחמים תמם משרד עורכי דין HRT — Generative Engine Optimization Map
+
+> A שירותים משפטיים business.
+
+---
+
+## Pages
+
+### Home
+https://hrt-0115b2e5.zappy5.app
+
+### Practice Areas
+https://hrt-0115b2e5.zappy5.app/practice-areas
+
+### Process
+https://hrt-0115b2e5.zappy5.app/process
+
+### Contact
+https://hrt-0115b2e5.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://hrt-0115b2e5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://hrt-0115b2e5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://hrt-0115b2e5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הדר רחמים תמם משרד עורכי דין HRT
+הדר רחמים תמם משרד עורכי דין HRT is a business in the שירותים משפטיים industry.
+
+## Target Audience
+לקוחות הזקוקים לייצוג משפטי בנושאי חדלות פירעון, הוצאה לפועל והסדרי חוב
+
+## Industry
+שירותים משפטיים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://hrt-0115b2e5.zappy5.app/sitemap.xml
+- **Robots.txt**: https://hrt-0115b2e5.zappy5.app/robots.txt
